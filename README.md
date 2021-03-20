@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riyadomf.
-- 👀 I’m interested in problem solving.
+- 👀 I’m interested in problem solving and automation.
 - 🌱 I’m currently learning flask.
 - 💞️ I’m looking to collaborate on deep learning projects.
 - 📫 You can reach me at riyad.omf@gmail.com.
