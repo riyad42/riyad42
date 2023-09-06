@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riyadomf.
+- 👋 Hi, I’m Omar Faruqe Riyad.
 - 👀 I’m interested in problem solving and automation.
 - 🌱 I’m currently working with JEE web applications.
 - 💞️ I’m looking to collaborate on ML/DL research.
